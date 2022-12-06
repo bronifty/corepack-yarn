@@ -40,6 +40,7 @@ yarn node index.js
 - .yarnrc.yml defines how the modules are resolved; you have 3 options: local cache (default in .yarn/cache), global cache (links to your user's .yarn/cache folder; used for local dev not for zero-install PnP) and node modules (for compatibility)
 
 ```yml
+# .yarnrc.yml
 yarnPath: .yarn/releases/yarn-3.3.0.cjs
 # enableGlobalCache: true
 # nodeLinker: node-modules
