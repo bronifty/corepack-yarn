@@ -1,6 +1,6 @@
 # Corepack Yarn Project
 
-## Plug-and-Play Zero-Install
+## Plug-and-Play Zero-Install by Default
 
 - To run this repo:
 
