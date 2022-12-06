@@ -1,5 +1,13 @@
 # Corepack Yarn Project
 
+## Plug-and-Play Zero-Install
+
+- To run this repo:
+
+```shell
+yarn start
+```
+
 - toggle yarn functionality (it's managed within a subdirectory of .nvm with corepack)
 
 ```shell
